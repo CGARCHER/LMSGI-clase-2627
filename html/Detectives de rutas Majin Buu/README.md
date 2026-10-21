@@ -4,6 +4,9 @@ Esta web contiene **15 fallos**. Localízalos y corrígelos sin mover ni renombr
 
 Comprueba que la web funciona y coincide con las capturas de referencia. Esta práctica se realiza en clase; no hay que entregarla.
 
+[ENUNCIADO Y ZIP ORIGINAL](https://marcas.cgarcher.dev/docs/unidades/02/majin-buu/)
+https://marcas.cgarcher.dev/docs/unidades/02/majin-buu/
+
 ## Resultado esperado
 
 Las siguientes capturas muestran cómo debe verse la web una vez corregida.
